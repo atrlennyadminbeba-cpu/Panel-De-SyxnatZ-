@@ -1,1 +1,1 @@
-# Panel-De-SyxnatZ-
+# SyxnatZDuel.lua
